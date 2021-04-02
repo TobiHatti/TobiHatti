@@ -3,12 +3,12 @@
 
 
 ## Open Source Projects
-<a href="https://endev.at/p/lphp"><img src="https://endev.at/content/projects/LPHP/LPHP_Banner_300.png" height="70px" /></a>
-<a href="https://endev.at/p/surgit"><img src="https://endev.at/content/projects/Surgit/Surgit_Banner_300.png" height="70px" /></a>
-<a href="https://endev.at/p/velox"><img src="https://endev.at/content/projects/VeloxTimer/Velox_Banner_300.svg" height="70px" /></a>
-<a href="https://endev.at/p/xps"><img src="https://endev.at/content/projects/XPS/XPS_Banner_300.png" height="70px" /></a>
-<a href="https://endev.at/p/q-drive"><img src="https://endev.at/content/projects/Q-Drive/QDriveBanner300.svg" height="70px" /></a>
-<a href="https://endev.at/p/snmp-scf"><img src="https://endev.at/content/projects/SNMP-SCF/SNMPSCF_Banner_300.png" height="70px" /></a>
+<a href="https://endev.at/p/lphp"><img src="https://endev.at/content/projects/LPHP/LPHP_Banner_300.png" height="60px" /></a>
+<a href="https://endev.at/p/surgit"><img src="https://endev.at/content/projects/Surgit/Surgit_Banner_300.png" height="60px" /></a>
+<a href="https://endev.at/p/velox"><img src="https://endev.at/content/projects/VeloxTimer/Velox_Banner_300.svg" height="60px" /></a>
+<a href="https://endev.at/p/xps"><img src="https://endev.at/content/projects/XPS/XPS_Banner_300.png" height="60px" /></a>
+<a href="https://endev.at/p/q-drive"><img src="https://endev.at/content/projects/Q-Drive/QDriveBanner300.svg" height="60px" /></a>
+<a href="https://endev.at/p/snmp-scf"><img src="https://endev.at/content/projects/SNMP-SCF/SNMPSCF_Banner_300.png" height="60px" /></a>
 
 
 ## Open Source Libraries
@@ -18,5 +18,5 @@
 <a href="https://endev.at/p/raspi-setups"><img src="https://endev.at/content/projects/Raspi-Setups/RaspiSetups_Banner_1080.svg" height="100px" /></a>
 
 ## Closed Source Projects
-<a href="https://endev.at/p/tenebris-vr"><img src="https://endev.at/content/projects/Tenebris-VR/Tenebris_Banner_300.png" height="70px" /></a>
-<a href="https://endev.at/p/mint"><img src="https://endev.at/content/projects/Mint/Mint_Banner_300.png" height="70px" /></a>
+<a href="https://endev.at/p/tenebris-vr"><img src="https://endev.at/content/projects/Tenebris-VR/Tenebris_Banner_300.png" height="60px" /></a>
+<a href="https://endev.at/p/mint"><img src="https://endev.at/content/projects/Mint/Mint_Banner_300.png" height="60px" /></a>
