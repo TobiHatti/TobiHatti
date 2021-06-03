@@ -1,6 +1,8 @@
 <img src="https://endev.at/content/EndevBanner.svg" height="50px" align="right"/>
 Hello there :D
 
+[![TobiHatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiHatti&theme=merko&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiHatti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Open Source Projects
 <a href="https://endev.at/p/lphp" target="_blank"><img src="https://endev.at/content/projects/LPHP/LPHP_Banner_300.png" height="60px" /></a>
