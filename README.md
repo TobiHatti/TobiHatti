@@ -2,7 +2,7 @@
 Hello there :D
 
 [![TobiHatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiHatti&theme=merko&show_icons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiHatti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Open Source Projects
 <a href="https://endev.at/p/lphp" target="_blank"><img src="https://endev.at/content/projects/LPHP/LPHP_Banner_300.png" height="60px" /></a>
@@ -22,3 +22,6 @@ Hello there :D
 ## Closed Source Projects
 <a href="https://endev.at/p/tenebris-vr" target="_blank"><img src="https://endev.at/content/projects/Tenebris-VR/Tenebris_Banner_300.png" height="60px" /></a>
 <a href="https://endev.at/p/mint" target="_blank"><img src="https://endev.at/content/projects/Mint/Mint_Banner_300.png" height="60px" /></a>
+
+<br /><br /><br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiHatti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
