@@ -1,5 +1,4 @@
 <img src="https://endev.at/content/EndevBanner.svg" height="50px" align="right"/>
-E
 
 [![TobiHatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiHatti&theme=merko&show_icons=true)]()
 
